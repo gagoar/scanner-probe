@@ -1,0 +1,2 @@
+          node.exportKind = "type";
+        }

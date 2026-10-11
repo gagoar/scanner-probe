@@ -1,0 +1,1 @@
+        if (!declaration) return null;

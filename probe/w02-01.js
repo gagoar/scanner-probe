@@ -1,0 +1,2 @@
+      }
+      parseExportDeclaration(node) {

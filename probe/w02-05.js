@@ -1,0 +1,2 @@
+        }
+        const startPos = this.start;

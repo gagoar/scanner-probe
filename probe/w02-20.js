@@ -1,0 +1,2 @@
+          declaration.declare = true;
+        }
