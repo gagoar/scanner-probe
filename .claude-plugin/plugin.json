@@ -1,0 +1,10 @@
+{
+  "name": "scanner-probe-ts",
+  "version": "0.0.1",
+  "description": "Throwaway repo that pins a directory-scanner false positive. It will be deleted.",
+  "author": {
+    "name": "gagoar",
+    "url": "https://github.com/gagoar"
+  },
+  "license": "MIT"
+}
